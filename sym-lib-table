@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name 1N4148)(type Legacy)(uri E:/KiCad_Files/1N4148.lib)(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri E:/Tastatur/KiCad_Zip_Files/Type-C.pretty-master/Type-C.lib)(options "")(descr ""))
+  (lib (name ws2812b)(type Legacy)(uri E:/Tastatur/KiCad_Zip_Files/WS2812B.pretty-master/Schematic-Symbol/ws2812b.lib)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "E:/Tastatur/KiCad_Zip_Files/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+)
