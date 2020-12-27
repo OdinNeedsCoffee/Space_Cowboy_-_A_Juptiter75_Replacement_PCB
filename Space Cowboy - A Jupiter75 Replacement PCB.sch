@@ -3377,10 +3377,10 @@ $EndComp
 Text GLabel 7950 6900 1    50   Input ~ 0
 D+
 $Comp
-L Power_Protection:PRTR5V0U2X D?
+L Power_Protection:PRTR5V0U2X D1
 U 1 1 5FEA96D8
 P 7950 7400
-F 0 "D?" V 7904 7944 50  0000 L CNN
+F 0 "D1" V 7904 7944 50  0000 L CNN
 F 1 "PRTR5V0U2X" V 7995 7944 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-143" H 8010 7400 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf" H 8010 7400 50  0001 C CNN
