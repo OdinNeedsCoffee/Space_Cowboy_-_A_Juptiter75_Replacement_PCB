@@ -2303,7 +2303,7 @@ U 1 1 602AEBB4
 P 7600 4950
 F 0 "MX_Space6.25" H 7633 5173 60  0000 C CNN
 F 1 "MX-NoLED" H 7633 5099 20  0000 C CNN
-F 2 "Keyboard_Mine:MXOnly-6U-ReversedStabilizers" H 6975 4925 60  0001 C CNN
+F 2 "Keyboard_Mine:MXOnlyNoLED-6.25U-ReversedStabilizers" H 6975 4925 60  0001 C CNN
 F 3 "" H 6975 4925 60  0001 C CNN
 	1    7600 4950
 	1    0    0    -1  
