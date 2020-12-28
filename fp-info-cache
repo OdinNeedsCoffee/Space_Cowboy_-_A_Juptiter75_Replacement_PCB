@@ -1,4 +1,4 @@
-870525131206614
+872135864600285
 ATmega32U4-AU
 QFP80P1200X1200X120-44N
 
@@ -30045,6 +30045,13 @@ QFP 0.8
 44
 Keyboard_Mine
 MX-ISO
+
+
+0
+4
+2
+Keyboard_Mine
+MX-ISO-ReversedStabilizers
 
 
 0
