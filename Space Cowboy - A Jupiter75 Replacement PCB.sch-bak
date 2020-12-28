@@ -19,7 +19,7 @@ U 1 1 5FE3A634
 P 4150 8500
 F 0 "U1" H 4150 6611 50  0000 C CNN
 F 1 "ATmega32U4-AU" H 4150 6520 50  0000 C CNN
-F 2 "Keyboard_Mine:ATMEGA32U4_AU" H 4150 8500 50  0001 C CIN
+F 2 "ATmega32U4-MUR_QFN44:QFN44G-0.5-7X7MM" H 4150 8500 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 4150 8500 50  0001 C CNN
 	1    4150 8500
 	1    0    0    -1  
