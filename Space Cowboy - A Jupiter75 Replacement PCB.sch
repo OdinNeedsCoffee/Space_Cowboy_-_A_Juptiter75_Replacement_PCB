@@ -3455,4 +3455,21 @@ Text GLabel 4750 8400 2    50   Input ~ 0
 ROW0
 Text GLabel 4750 8300 2    50   Input ~ 0
 ROW1
+$Comp
+L Device:C_Small C8
+U 1 1 5FEDD851
+P 800 9650
+F 0 "C8" H 892 9696 50  0000 L CNN
+F 1 "0.1uF" H 892 9605 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 800 9650 50  0001 C CNN
+F 3 "~" H 800 9650 50  0001 C CNN
+	1    800  9650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	800  9550 1200 9550
+Connection ~ 1200 9550
+Wire Wire Line
+	800  9750 1200 9750
+Connection ~ 1200 9750
 $EndSCHEMATC
