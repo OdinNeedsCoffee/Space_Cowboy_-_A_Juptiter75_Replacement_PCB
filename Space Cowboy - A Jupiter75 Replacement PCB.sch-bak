@@ -14,22 +14,6 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L MCU_Microchip_ATmega:ATmega32U4-AU U1
-U 1 1 5FE3A634
-P 4150 8500
-F 0 "U1" H 4150 6611 50  0000 C CNN
-F 1 "ATmega32U4-AU" H 4150 6520 50  0000 C CNN
-F 2 "ATmega32U4-MUR_QFN44:QFN44G-0.5-7X7MM" H 4150 8500 50  0001 C CIN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 4150 8500 50  0001 C CNN
-	1    4150 8500
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	4050 6700 4150 6700
-Connection ~ 4150 6700
-Wire Wire Line
-	4150 6700 4250 6700
-$Comp
 L power:GND #PWR0101
 U 1 1 5FE3F777
 P 3700 10350
@@ -41,12 +25,7 @@ F 3 "" H 3700 10350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4050 10300 3700 10300
-Wire Wire Line
 	3700 10300 3700 10350
-Wire Wire Line
-	4150 10300 4050 10300
-Connection ~ 4050 10300
 $Comp
 L Device:R_Small R1
 U 1 1 5FE406F6
@@ -468,7 +447,6 @@ Connection ~ 10350 9200
 NoConn ~ 9600 9100
 Wire Wire Line
 	1650 8000 2600 8000
-Connection ~ 4050 6700
 Wire Wire Line
 	4050 6600 4050 6700
 $Comp
@@ -2697,37 +2675,25 @@ Text GLabel 11900 1150 1    50   Input ~ 0
 COL14
 Text GLabel 12450 1150 1    50   Input ~ 0
 COL15
-Text GLabel 4750 7300 2    50   Input ~ 0
+Text GLabel 4750 9400 2    50   Input ~ 0
 COL0
-Text GLabel 4750 7400 2    50   Input ~ 0
+Text GLabel 4750 9500 2    50   Input ~ 0
 COL1
-Text GLabel 4750 7500 2    50   Input ~ 0
+Text GLabel 4750 9600 2    50   Input ~ 0
 COL2
-Text GLabel 4750 7600 2    50   Input ~ 0
+Text GLabel 4750 9700 2    50   Input ~ 0
 COL3
-Text GLabel 4750 7700 2    50   Input ~ 0
+Text GLabel 4750 9800 2    50   Input ~ 0
 COL4
-Text GLabel 4750 7900 2    50   Input ~ 0
+Text GLabel 4750 9900 2    50   Input ~ 0
 COL5
 Text GLabel 4750 8000 2    50   Input ~ 0
 COL6
-Text GLabel 4750 8200 2    50   Input ~ 0
-COL7
-Text GLabel 4750 8300 2    50   Input ~ 0
-COL8
-Text GLabel 4750 8400 2    50   Input ~ 0
-COL9
 Text GLabel 4750 8600 2    50   Input ~ 0
-COL10
-Text GLabel 4750 8800 2    50   Input ~ 0
-COL11
-Text GLabel 4750 8900 2    50   Input ~ 0
-COL12
-Text GLabel 4750 9200 2    50   Input ~ 0
 COL13
-Text GLabel 4750 9400 2    50   Input ~ 0
+Text GLabel 4750 8700 2    50   Input ~ 0
 COL14
-Text GLabel 4750 9500 2    50   Input ~ 0
+Text GLabel 4750 8500 2    50   Input ~ 0
 COL15
 Connection ~ 3950 5300
 Connection ~ 3950 4600
@@ -2759,20 +2725,15 @@ Wire Wire Line
 	3950 2500 3750 2500
 Wire Wire Line
 	3950 1800 3750 1800
-Text GLabel 4750 8700 2    50   Input ~ 0
-ROW0
-Text GLabel 4750 8500 2    50   Input ~ 0
-ROW1
-Text GLabel 4750 9600 2    50   Input ~ 0
+Text GLabel 4750 8200 2    50   Input ~ 0
 ROW2
-Text GLabel 4750 9700 2    50   Input ~ 0
+Text GLabel 4750 7300 2    50   Input ~ 0
 ROW3
-Text GLabel 4750 9800 2    50   Input ~ 0
+Text GLabel 4750 7200 2    50   Input ~ 0
 ROW4
-Text GLabel 4750 9900 2    50   Input ~ 0
+Text GLabel 4750 7100 2    50   Input ~ 0
 ROW5
 NoConn ~ 4750 7000
-NoConn ~ 4750 7200
 Text Notes 4300 10900 2    50   ~ 0
 MCU-Area\n
 Text Notes 9950 10500 2    50   ~ 0
@@ -3437,23 +3398,78 @@ U 604462C3
 F0 "RGB" 50
 F1 "Space Cowboy RBG.sch" 50
 $EndSheet
-Text GLabel 5450 7100 2    50   Input ~ 0
+Text GLabel 5450 7700 2    50   Input ~ 0
 RGB_DI_PIN
 $Comp
 L Device:R_Small R7
 U 1 1 6052E083
-P 5100 7100
-F 0 "R7" V 4904 7100 50  0000 C CNN
-F 1 "0.5k" V 4995 7100 50  0000 C CNN
-F 2 "Resistors_SMD:R_0603" H 5100 7100 50  0001 C CNN
-F 3 "~" H 5100 7100 50  0001 C CNN
-	1    5100 7100
+P 5100 7700
+F 0 "R7" V 4904 7700 50  0000 C CNN
+F 1 "0.5k" V 4995 7700 50  0000 C CNN
+F 2 "Resistors_SMD:R_0603" H 5100 7700 50  0001 C CNN
+F 3 "~" H 5100 7700 50  0001 C CNN
+	1    5100 7700
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	4750 7100 5000 7100
+	4750 7700 5000 7700
 Wire Wire Line
-	5200 7100 5450 7100
+	5200 7700 5450 7700
 Text Notes 13900 9650 0    50   ~ 0
 RGB
+Wire Wire Line
+	4050 6700 4150 6700
+Wire Wire Line
+	4150 6700 4250 6700
+Connection ~ 4150 6700
+Wire Wire Line
+	4050 10300 3700 10300
+Wire Wire Line
+	4150 10300 4050 10300
+Connection ~ 4050 10300
+Connection ~ 4050 6700
+$Comp
+L MCU_Microchip_ATmega:ATmega32U4-AU U1
+U 1 1 5FE3A634
+P 4150 8500
+F 0 "U1" H 4150 6611 50  0000 C CNN
+F 1 "ATmega32U4-AU" H 4150 6520 50  0000 C CNN
+F 2 "ATmega32U4-MUR_QFN44:QFN44G-0.5-7X7MM" H 4150 8500 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 4150 8500 50  0001 C CNN
+	1    4150 8500
+	1    0    0    -1  
+$EndComp
+Text GLabel 4750 7900 2    50   Input ~ 0
+COL7
+Text GLabel 4750 7600 2    50   Input ~ 0
+COL8
+Text GLabel 4750 7500 2    50   Input ~ 0
+COL9
+Text GLabel 4750 7400 2    50   Input ~ 0
+COL10
+Text GLabel 4750 8900 2    50   Input ~ 0
+COL11
+Text GLabel 4750 8800 2    50   Input ~ 0
+COL12
+Text GLabel 4750 8400 2    50   Input ~ 0
+ROW0
+Text GLabel 4750 8300 2    50   Input ~ 0
+ROW1
+$Comp
+L Device:C_Small C8
+U 1 1 5FEDD851
+P 800 9650
+F 0 "C8" H 892 9696 50  0000 L CNN
+F 1 "0.1uF" H 892 9605 50  0000 L CNN
+F 2 "Capacitors_SMD:C_0603" H 800 9650 50  0001 C CNN
+F 3 "~" H 800 9650 50  0001 C CNN
+	1    800  9650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	800  9550 1200 9550
+Connection ~ 1200 9550
+Wire Wire Line
+	800  9750 1200 9750
+Connection ~ 1200 9750
 $EndSCHEMATC
