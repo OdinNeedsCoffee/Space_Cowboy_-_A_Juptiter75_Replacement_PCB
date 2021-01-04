@@ -3472,4 +3472,5 @@ Connection ~ 1200 9550
 Wire Wire Line
 	800  9750 1200 9750
 Connection ~ 1200 9750
+NoConn ~ 4750 9200
 $EndSCHEMATC
