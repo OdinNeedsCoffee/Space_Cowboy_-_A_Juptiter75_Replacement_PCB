@@ -2687,13 +2687,13 @@ Text GLabel 4750 9800 2    50   Input ~ 0
 COL4
 Text GLabel 4750 9900 2    50   Input ~ 0
 COL5
-Text GLabel 4750 8000 2    50   Input ~ 0
-COL6
-Text GLabel 4750 8600 2    50   Input ~ 0
-COL13
-Text GLabel 4750 8700 2    50   Input ~ 0
-COL14
 Text GLabel 4750 8500 2    50   Input ~ 0
+COL6
+Text GLabel 4750 7600 2    50   Input ~ 0
+COL13
+Text GLabel 4750 7900 2    50   Input ~ 0
+COL14
+Text GLabel 4750 8000 2    50   Input ~ 0
 COL15
 Connection ~ 3950 5300
 Connection ~ 3950 4600
@@ -3439,17 +3439,17 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega
 	1    4150 8500
 	1    0    0    -1  
 $EndComp
-Text GLabel 4750 7900 2    50   Input ~ 0
+Text GLabel 4750 8700 2    50   Input ~ 0
 COL7
-Text GLabel 4750 7600 2    50   Input ~ 0
+Text GLabel 4750 8600 2    50   Input ~ 0
 COL8
-Text GLabel 4750 7500 2    50   Input ~ 0
-COL9
-Text GLabel 4750 7400 2    50   Input ~ 0
-COL10
-Text GLabel 4750 8900 2    50   Input ~ 0
-COL11
 Text GLabel 4750 8800 2    50   Input ~ 0
+COL9
+Text GLabel 4750 8900 2    50   Input ~ 0
+COL10
+Text GLabel 4750 7400 2    50   Input ~ 0
+COL11
+Text GLabel 4750 7500 2    50   Input ~ 0
 COL12
 Text GLabel 4750 8400 2    50   Input ~ 0
 ROW0
