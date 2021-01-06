@@ -2725,13 +2725,13 @@ Wire Wire Line
 	3950 2500 3750 2500
 Wire Wire Line
 	3950 1800 3750 1800
-Text GLabel 4750 8200 2    50   Input ~ 0
-ROW2
-Text GLabel 4750 7300 2    50   Input ~ 0
-ROW3
-Text GLabel 4750 7200 2    50   Input ~ 0
-ROW4
 Text GLabel 4750 7100 2    50   Input ~ 0
+ROW2
+Text GLabel 4750 8200 2    50   Input ~ 0
+ROW3
+Text GLabel 4750 8300 2    50   Input ~ 0
+ROW4
+Text GLabel 4750 8400 2    50   Input ~ 0
 ROW5
 NoConn ~ 4750 7000
 Text Notes 4300 10900 2    50   ~ 0
@@ -3451,9 +3451,9 @@ Text GLabel 4750 7400 2    50   Input ~ 0
 COL11
 Text GLabel 4750 7500 2    50   Input ~ 0
 COL12
-Text GLabel 4750 8400 2    50   Input ~ 0
+Text GLabel 4750 7200 2    50   Input ~ 0
 ROW0
-Text GLabel 4750 8300 2    50   Input ~ 0
+Text GLabel 4750 7300 2    50   Input ~ 0
 ROW1
 $Comp
 L Device:C_Small C8
