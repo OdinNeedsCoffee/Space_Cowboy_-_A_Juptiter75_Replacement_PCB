@@ -21,6 +21,7 @@ F 0 "DRGB1" V 5796 6106 50  0000 R CNN
 F 1 "WS2812B" V 5705 6106 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 5800 6150 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5850 6075 50  0001 L TNN
+F 4 "C114586" V 5750 6450 50  0001 C CNN "LCSC"
 	1    5750 6450
 	0    -1   -1   0   
 $EndComp
@@ -54,6 +55,7 @@ F 0 "DRGB2" V 5796 5356 50  0000 R CNN
 F 1 "WS2812B" V 5705 5356 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 5800 5400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5850 5325 50  0001 L TNN
+F 4 "C114586" V 5750 5700 50  0001 C CNN "LCSC"
 	1    5750 5700
 	0    -1   -1   0   
 $EndComp
@@ -87,6 +89,7 @@ F 0 "DRGB3" V 5796 4606 50  0000 R CNN
 F 1 "WS2812B" V 5705 4606 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 5800 4650 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5850 4575 50  0001 L TNN
+F 4 "C114586" V 5750 4950 50  0001 C CNN "LCSC"
 	1    5750 4950
 	0    -1   -1   0   
 $EndComp
@@ -120,6 +123,7 @@ F 0 "DRGB4" V 5796 3856 50  0000 R CNN
 F 1 "WS2812B" V 5705 3856 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 5800 3900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5850 3825 50  0001 L TNN
+F 4 "C114586" V 5750 4200 50  0001 C CNN "LCSC"
 	1    5750 4200
 	0    -1   -1   0   
 $EndComp
@@ -153,6 +157,7 @@ F 0 "DRGB5" V 5796 3106 50  0000 R CNN
 F 1 "WS2812B" V 5705 3106 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 5800 3150 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5850 3075 50  0001 L TNN
+F 4 "C114586" V 5750 3450 50  0001 C CNN "LCSC"
 	1    5750 3450
 	0    -1   -1   0   
 $EndComp
@@ -186,6 +191,7 @@ F 0 "DRGB6" V 5796 2356 50  0000 R CNN
 F 1 "WS2812B" V 5705 2356 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 5800 2400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5850 2325 50  0001 L TNN
+F 4 "C114586" V 5750 2700 50  0001 C CNN "LCSC"
 	1    5750 2700
 	0    -1   -1   0   
 $EndComp
@@ -219,6 +225,7 @@ F 0 "DRGB7" V 5796 1606 50  0000 R CNN
 F 1 "WS2812B" V 5705 1606 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 5800 1650 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5850 1575 50  0001 L TNN
+F 4 "C114586" V 5750 1950 50  0001 C CNN "LCSC"
 	1    5750 1950
 	0    -1   -1   0   
 $EndComp
@@ -252,6 +259,7 @@ F 0 "DRGB8" V 5796 856 50  0000 R CNN
 F 1 "WS2812B" V 5705 856 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 5800 900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5850 825 50  0001 L TNN
+F 4 "C114586" V 5750 1200 50  0001 C CNN "LCSC"
 	1    5750 1200
 	0    -1   -1   0   
 $EndComp
@@ -285,6 +293,7 @@ F 0 "DRGB9" V 3646 6106 50  0000 R CNN
 F 1 "WS2812B" V 3555 6106 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 3650 6150 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3700 6075 50  0001 L TNN
+F 4 "C114586" V 3600 6450 50  0001 C CNN "LCSC"
 	1    3600 6450
 	0    -1   -1   0   
 $EndComp
@@ -318,6 +327,7 @@ F 0 "DRGB10" V 3646 5356 50  0000 R CNN
 F 1 "WS2812B" V 3555 5356 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 3650 5400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3700 5325 50  0001 L TNN
+F 4 "C114586" V 3600 5700 50  0001 C CNN "LCSC"
 	1    3600 5700
 	0    -1   -1   0   
 $EndComp
@@ -351,6 +361,7 @@ F 0 "DRGB11" V 3646 4606 50  0000 R CNN
 F 1 "WS2812B" V 3555 4606 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 3650 4650 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3700 4575 50  0001 L TNN
+F 4 "C114586" V 3600 4950 50  0001 C CNN "LCSC"
 	1    3600 4950
 	0    -1   -1   0   
 $EndComp
@@ -384,6 +395,7 @@ F 0 "DRGB12" V 3646 3856 50  0000 R CNN
 F 1 "WS2812B" V 3555 3856 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 3650 3900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3700 3825 50  0001 L TNN
+F 4 "C114586" V 3600 4200 50  0001 C CNN "LCSC"
 	1    3600 4200
 	0    -1   -1   0   
 $EndComp
@@ -417,6 +429,7 @@ F 0 "DRGB13" V 3646 3106 50  0000 R CNN
 F 1 "WS2812B" V 3555 3106 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 3650 3150 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3700 3075 50  0001 L TNN
+F 4 "C114586" V 3600 3450 50  0001 C CNN "LCSC"
 	1    3600 3450
 	0    -1   -1   0   
 $EndComp
@@ -450,6 +463,7 @@ F 0 "DRGB14" V 3646 2356 50  0000 R CNN
 F 1 "WS2812B" V 3555 2356 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 3650 2400 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3700 2325 50  0001 L TNN
+F 4 "C114586" V 3600 2700 50  0001 C CNN "LCSC"
 	1    3600 2700
 	0    -1   -1   0   
 $EndComp
@@ -483,6 +497,7 @@ F 0 "DRGB15" V 3646 1606 50  0000 R CNN
 F 1 "WS2812B" V 3555 1606 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 3650 1650 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3700 1575 50  0001 L TNN
+F 4 "C114586" V 3600 1950 50  0001 C CNN "LCSC"
 	1    3600 1950
 	0    -1   -1   0   
 $EndComp
@@ -516,6 +531,7 @@ F 0 "DRGB16" V 3646 856 50  0000 R CNN
 F 1 "WS2812B" V 3555 856 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 3650 900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3700 825 50  0001 L TNN
+F 4 "C114586" V 3600 1200 50  0001 C CNN "LCSC"
 	1    3600 1200
 	0    -1   -1   0   
 $EndComp
@@ -955,6 +971,7 @@ F 0 "DRGB17" V 1496 6106 50  0000 R CNN
 F 1 "WS2812B" V 1405 6106 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 1500 6150 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 1550 6075 50  0001 L TNN
+F 4 "C114586" V 1450 6450 50  0001 C CNN "LCSC"
 	1    1450 6450
 	0    -1   -1   0   
 $EndComp
@@ -992,6 +1009,7 @@ F 0 "DRGB18" V 5796 6856 50  0000 R CNN
 F 1 "WS2812B" V 5705 6856 50  0000 R CNN
 F 2 "WS2812B Worldsemi:WS2812B" H 5800 6900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5850 6825 50  0001 L TNN
+F 4 "C114586" V 5750 7200 50  0001 C CNN "LCSC"
 	1    5750 7200
 	0    -1   -1   0   
 $EndComp
@@ -1068,4 +1086,6 @@ Wire Wire Line
 	1450 6750 1450 6950
 Wire Wire Line
 	1450 6000 1450 6150
+Wire Wire Line
+	5750 6750 5750 6900
 $EndSCHEMATC
