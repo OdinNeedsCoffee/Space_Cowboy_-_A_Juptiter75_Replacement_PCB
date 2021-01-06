@@ -8964,7 +8964,7 @@
     )
   )
 
-  (gr_text "J.C.K.\nRevision 1.0\n2021" (at 237.0836 172.4914) (layer B.SilkS)
+  (gr_text "J.C.K.\nRevision 1.0\n2021" (at 235.8898 152.4) (layer B.SilkS)
     (effects (font (size 1.1 1.1) (thickness 0.1) italic) (justify mirror))
   )
   (gr_arc (start 62.0552 43.7552) (end 62.0552 41.7552) (angle -90) (layer Edge.Cuts) (width 0.2))
